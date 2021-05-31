@@ -2,8 +2,8 @@ I'll be updating this page monthly. This page is to serve as a landing page that
 Soon I will be working on a proper porfolio that will house wireframes and smaller projects that I have worked on while advance my Javascript knowledge. </br>
 
 Future Goals:
-1.<strike> Write 'about me'.</strike>
-2. Rewrite 'about me'.
-3. add contact form
-4. add music in the background
-5. add 'dark mode'
+1.<strike> Write 'about me'.</strike></br>
+2. Rewrite 'about me'.</br>
+3. add contact form</br>
+4. add music in the background</br>
+5. add 'dark mode'</br>
